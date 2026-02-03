@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AS Fragrance Decants</title>
+  <style>
+    body{margin:0;font-family:Arial,Helvetica,sans-serif;background:#0f0f0f;color:#fff}
+    header{padding:32px;text-align:center;background:linear-gradient(135deg,#000,#1a1a1a)}
+    header h1{margin:0;font-size:2.4rem;letter-spacing:2px}
+    header p{margin-top:10px;color:#cfcfcf}
+    section{padding:40px 20px;max-width:1200px;margin:auto}
+    h2{border-bottom:1px solid #333;padding-bottom:10px;margin-bottom:24px;letter-spacing:1px}
+    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:18px}
+    .card{background:#1a1a1a;border-radius:14px;padding:18px;box-shadow:0 10px 24px rgba(0,0,0,.45)}
+    .card h3{margin:0 0 8px 0}
+    .notes{color:#bdbdbd;font-size:.95rem}
+    .sizes{margin-top:10px;color:#d4af37;font-weight:700}
+    .cta{display:inline-block;margin-top:14px;padding:10px 16px;background:#d4af37;color:#000;text-decoration:none;border-radius:10px;font-weight:800}
+    .cta:hover{opacity:.9}
+    footer{text-align:center;padding:28px;background:#000;color:#8f8f8f;font-size:.9rem}
+    .pill{display:inline-block;padding:4px 10px;border-radius:999px;background:#262626;color:#d4af37;font-size:.75rem;margin-left:6px}
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>AS FRAGRANCE DECANTS</h1>
+  <p>100% Authentic • Hand‑Decanted • Fast Shipping</p>
+</header>
+
+<section>
+  <h2>Available Sizes</h2>
+  <div class="card">
+    <p>All fragrances are available in the following sizes only:</p>
+    <p class="sizes">5ml • 10ml • 30ml</p>
+  </div>
+</section>
+
+<section>
+  <h2>Fragrance List</h2>
+  <div class="grid">
+    <div class="card"><h3>Polo 67 EDT</h3><p class="notes">Fresh • Modern</p><p class="sizes">5ml | 10ml | 30ml</p></div>
+    <div class="card"><h3>Lattafa Asad Bourbon</h3><p class="notes">Sweet • Spicy • Vanilla</p><p class="sizes">5ml | 10ml | 30ml</p></div>
+    <div class="card"><h3>Lattafa Khamrah Qahwa</h3><p class="notes">Coffee • Gourmand</p><p class="sizes">5ml | 10ml | 30ml</p></div>
+    <div class="card"><h3>Marwa Arabiyat Prestige</h3><p class="notes">Oriental • Smooth</p><p class="sizes">5ml | 10ml | 30ml</p></div>
+    <div class="card"><h3>Maison Alhambra Jean Lowe Azure</h3><p class="notes">Fresh • Aquatic</p><p class="sizes">5ml | 10ml | 30ml</p></div>
+    <div class="card"><h3>Khadlaj Shiyaaka Shadow</h3><p class="notes">Dark • Spicy</p><p class="sizes">5ml | 10ml | 30ml</p></div>
+    <div class="card"><h3>French Avenue Aether Extrait</h3><p class="notes">Extrait • Intense</p><p class="sizes">5ml | 10ml | 30ml</p></div>
+    <div class="card"><h3>Jean Paul Gaultier Paradise Garden</h3><p class="notes">Green • Sweet</p><p class="sizes">5ml | 10ml | 30ml</p></div>
+    <div class="card"><h3>Mont Blanc Legend Spirit</h3><p class="notes">Fresh • Clean</p><p class="sizes">5ml | 10ml | 30ml</p></div>
+    <div class="card"><h3>Missoni Wave</h3><p class="notes">Citrus • Aquatic</p><p class="sizes">5ml | 10ml | 30ml</p></div>
+    <div class="card"><h3>Cremo Black Spice & Vanilla</h3><p class="notes">Warm • Sweet</p><p class="sizes">5ml | 10ml | 30ml</p></div>
+    <div class="card"><h3>Dior Sauvage EDP</h3><p class="notes">Fresh • Spicy</p><p class="sizes">5ml | 10ml | 30ml</p></div>
+    <div class="card"><h3>Versace Eros EDT</h3><p class="notes">Sweet • Minty</p><p class="sizes">5ml | 10ml | 30ml</p></div>
+    <div class="card"><h3>JPG Le Beau</h3><p class="notes">Coconut • Sweet</p><p class="sizes">5ml | 10ml | 30ml</p></div>
+    <div class="card"><h3>Jimmy Choo Man Ice</h3><p class="notes">Fresh • Icy</p><p class="sizes">5ml | 10ml | 30ml</p></div>
+    <div class="card"><h3>Zimaya Itqan Noir</h3><p class="notes">Dark • Woody</p><p class="sizes">5ml | 10ml | 30ml</p></div>
+    <div class="card"><h3>Club De Nuit Lion Heart</h3><p class="notes">Bold • Modern</p><p class="sizes">5ml | 10ml | 30ml</p></div>
+    <div class="card"><h3>Khadlaj Island</h3><p class="notes">Fresh • Tropical</p><p class="sizes">5ml | 10ml | 30ml</p></div>
+    <div class="card"><h3>Nitro Elixir</h3><p class="notes">Powerful • Sweet</p><p class="sizes">5ml | 10ml | 30ml</p></div>
+    <div class="card"><h3>Liquid Brun</h3><p class="notes">Gourmand • Warm</p><p class="sizes">5ml | 10ml | 30ml</p></div>
+  </div>
+</section>
+
+<section>
+  <h2>How to Order</h2>
+  <div class="grid">
+    <div class="card"><h3>1. Choose Fragrance</h3><p>Select any scent from the list.</p></div>
+    <div class="card"><h3>2. Pick Size</h3><p>5ml, 10ml, or 30ml decants only.</p></div>
+    <div class="card"><h3>3. Place Order</h3><p>DM on Instagram to confirm pricing and bundles.</p></div>
+  </div>
+</section>
+
+<section>
+  <h2>Important Information</h2>
+  <div class="card">
+    <p>• All fragrances are 100% authentic</p>
+    <p>• Hand‑decanted into premium glass atomizers</p>
+    <p>• Not affiliated with any brand</p>
+    <p>• Flat US shipping • Bundle discounts available</p>
+  </div>
+</section>
+
+<footer>
+  <p>© 2026 AS Fragrance Decants</p>
+  <p>Order via Instagram DM</p>
+</footer>
+
+</body>
+</html>
